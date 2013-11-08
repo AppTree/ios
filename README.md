@@ -3,6 +3,10 @@ ios
 
 AppTree iOS 资料共享
 
+### contents
+* [lua](lua.md)
+* [关于iOS的笔试题整理](writing_tests.md)
+
 ### how to use
 * 你需要一个[markdown工具](http://www.appinn.com/markdown-tools/)来读&写这些内容
 
@@ -15,6 +19,7 @@ STEPS:
 * 把图片和附件分别放在imgs、attachments中
 * 引用imgs中的图片使用相对路径即可 
     >![ppt]\(/imgs/ppt-1.jpg) 
+* 在本文的contents中增加这个主题的链接
 
 ### about
 &copy; [AppTree](https://github.com/AppTree) 2013 
