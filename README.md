@@ -9,7 +9,7 @@ AppTree iOS 资料共享
 
 ### how to use
 * 你需要一个[markdown工具](http://www.appinn.com/markdown-tools/)来读&写这些内容
-
+* 关于markdown书写的格式可以参考[这里](http://blog.4wer.com/github-gollum)
 ### new topic 
 如果你觉得有一个问题很值得分享、讨论或记录，而目前这个资料库中没有以此为标题的 .md 文件，那么你可以新建一个Topic
 
